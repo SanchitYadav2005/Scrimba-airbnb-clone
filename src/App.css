@@ -32,3 +32,25 @@
 .hero h1{
   margin-bottom: 0.5em;
 }
+
+
+.card{
+  margin-left: 3em;
+  margin-top: 3em;
+  padding: 10px;
+}
+
+.main-img{
+  border-radius: 1em ;
+}
+.card-star{
+  padding-right: 10px;
+}
+.gray{
+  color: gray;
+  padding-left: 10px;
+}
+
+.bold{
+  font-weight: bolder;
+}
