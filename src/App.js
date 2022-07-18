@@ -15,6 +15,10 @@ export default function App() {
         location={iteam.location}
         title={iteam.title}
         price={iteam.price}
+
+        // you can also do like this:-
+
+        // iteam= {iteam} in order to do this you have to replace props.whatever into props.iteam.whatever.
       />
     )
   })
